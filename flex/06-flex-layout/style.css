@@ -78,6 +78,6 @@ h4 {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  margin-bottom: auto;
+  
   flex: auto;
 }
